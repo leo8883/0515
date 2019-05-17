@@ -1,0 +1,1 @@
+https://secure-beyond-98599.herokuapp.com/admin/login/?next=/admin/
